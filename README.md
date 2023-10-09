@@ -14,7 +14,7 @@ Evento: Ante este evento, deberás identificar el objeto literal correspondiente
   </li>
 </ul>
 
-Para este proyecto decidí usar elementos del universo Star Trek e hice una página como si fuera una empresa Ferengi que vende servicios de holosecciones (holodeck). <br>
+<h3>Para este proyecto decidí usar elementos del universo Star Trek e hice una página como si fuera una empresa Ferengi que vende servicios de holosecciones (holodeck).</h3>h3></h3> <br>
 <br>#¿Qué es un holodeck o holosección/holocubierta?<br>
 El holodeck sirve tanto para entrenamiento como para recreación. Combina la tecnología del transportador con la del replicador, generando imágenes holográficas en 3D, y proyectando campos de fuerza para dar la ilusión de que los objetos tienen sustancia. Puede ser controlado desde el exterior o desde su interior, a través de un “arco”. Este arco puede ser requerido en cualquier momento para cambiar los parámetros de un holoprograma activo.<br> Las paredes del holodeck pueden generar imágenes holográficas que aparentan extenderse por distancias ilimitadas, mucho mayores a sus dimensiones reales. Al hacerlo, el holodeck sólo es consciente de sus usuarios, no de sus propios objetos. Por ejemplo, si alguien tira una piedra (holográfica) a una pared del holodeck, la piedra no podrá pasar más allá de la pared (TNG: "Encounter at Farpoint"). Hace esto ajustando continuamente las proyecciones de los campos de fuerza y el uso de una “noria”. Con esto, si alguien se acerca a una pared se produce un desplazamiento instantáneo. El holodeck puede cambiar la gravedad en tres dimensiones, así sus ocupantes no notan el cambio (Star Trek: The Next Generation Interactive Technical Manual)<br>
 
