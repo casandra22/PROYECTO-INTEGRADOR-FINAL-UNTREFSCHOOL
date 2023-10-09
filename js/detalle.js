@@ -11,7 +11,7 @@ fetch('../datos/holoprogramas.json')
     })
     .then((programas) => {
         console.log(programas) // [{}, {}, {}]
-        // console.log(programas.codigo);
+        console.log(programas.detalle);
 
         for (let i = 0; i < programas.length; i++) {
             if (programas[i].codigo == codigoSeleccionado) {
