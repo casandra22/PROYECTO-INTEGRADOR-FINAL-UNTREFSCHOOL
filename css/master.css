@@ -1,0 +1,21 @@
+.primeraSeccion{
+    margin-top: 4rem;
+}
+.carousel-caption{
+    background-color: rgb(0, 0, 0, 0.5);
+}
+.miniatura{
+    object-fit: cover;
+    width:auto;
+    height:270px;
+
+}
+
+footer{
+    margin-top: 2rem;
+}
+
+h1,h2,h3{
+    margin-left: 3rem;
+    margin-right: 3rem;
+}
