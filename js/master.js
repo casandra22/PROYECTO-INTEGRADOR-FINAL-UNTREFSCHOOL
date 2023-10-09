@@ -1,7 +1,7 @@
 //Proyecto final
 let tarjetasProgramas = document.querySelector(".holoProgramas")
 
-fetch('../datos/holoprogramas.json')
+fetch('./datos/holoprogramas.json')
     .then((respuesta) => {
         return respuesta.json()
     })
