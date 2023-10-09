@@ -34,5 +34,41 @@
         "precio": 4000,
         "detalle": "Tu aventura comienza al ser transportado a la sofisticada Estación Espacial Galáctica, donde nuestro exclusivo restaurante de neón te espera. Al entrar, serás recibido por una atmósfera repleta de colores brillantes y destellos de luz.<br>El Restaurante Neón está diseñado para deleitar tus sentidos. Cada mesa está iluminada por paneles de luz neón que cambian de color suavemente, creando un ambiente hipnótico y acogedor. Los asientos son cómodos y ergonómicos, diseñados para que te sientas como un explorador de la galaxia.<br>El menú ofrece una amplia variedad de deliciosas opciones, desde platillos clásicos de la Tierra hasta creaciones culinarias alienígenas. Los sabores son intensos y auténticos, preparados por chefs de renombre galáctico. Además, podrás disfrutar de bebidas de todo el universo, incluyendo cócteles con nombres inspirados en Vulcan y el planeta Klingon.<br>A medida que saboreás tu comida, una pantalla holográfica te permite elegir la vista que deseás ver mientras comés. Puedes cenar con una vista panorámica de una galaxia en constante cambio o disfrutar del espectáculo de estrellas fugaces en una noche estrellada.<br>El Restaurante Neón en la Estación Espacial Galáctica es un lugar donde los sabores de la galaxia se combinan con una estética brillante y una experiencia sensorial incomparable. Preparate para una experiencia gastronómica que te transportará a las estrellas mientras disfrutás de la mejor comida que el cuadrante tiene para ofrecer.",
         "puntuacion": "⭐⭐⭐"
+    },
+    {
+        "codigo": "programa_5",
+        "nombre": "Castillo medieval",
+        "descripcion": "Nuestro holoprograma Castillo Medieval te transportará a una época de caballeros valientes, doncellas en apuros y castillos majestuosos ubicados en lo alto de las montañas.",
+        "imagen": "./img/castillomedieval.jpg",
+        "precio": 2000,
+        "detalle": "Ingresá a un mundo donde la historia cobra vida y los cuentos de hadas se hacen realidad. Al activar Castillo Medieval, te encontrarás en el umbral de un castillo de ensueño, ubicado en una montaña que se yergue por encima de un paisaje impresionante.<br>El castillo en sí es una obra maestra de la arquitectura medieval, con torres altas, almenas y un foso que rodea sus murallas. Ingresá al patio empedrado y descubrí un mundo de maravillas. Escuchá el ruido de las espadas chocando en el patio de entrenamiento, mientras los caballeros practican sus habilidades.<br>Unite a un banquete en el gran salón, donde se sirven manjares propios de la época, desde asados y pasteles hasta hidromiel. Músicos y trovadores te entretendrán con canciones y cuentos de héroes legendarios.<br>Si preferís una experiencia más activa, podés participar en un torneo de caballeros, desafiar a un dragón en las profundidades del castillo o ayudar a rescatar a una doncella en apuros. Cada rincón del castillo y sus alrededores te invitan a explorar, luchar y vivir la vida de un auténtico caballero medieval.<br>La vista desde la montaña es impresionante. Desde lo alto, podés contemplar valles verdes y montañas cubiertas de nieve, todo bajo el majestuoso cielo azul. Las puestas de sol son particularmente mágicas, pintando el horizonte con tonos dorados y rojos.",
+        "puntuacion": "⭐⭐⭐⭐"
+    },
+    {
+        "codigo": "programa_6",
+        "nombre": "Laboratorio hidroponia",
+        "descripcion": "Bienvenido al futuro de la agricultura sostenible. Este holoprograma vas a aprender a usar la técnica más avanzada de hidroponia sin poner en riesgo ninguna planta real.",
+        "imagen": "./img/labhidroponia.jpg",
+        "precio": 2000,
+        "detalle": "Ingresá a un laboratorio de hidroponía de vanguardia, donde la tierra ha sido reemplazada por sistemas hidropónicos de última generación. Al activar Laboratorio de Hidroponía Avanzada, te sumergirás en un espacio repleto de filas interminables de plantas exuberantes y frutas en crecimiento, todo sin un solo gramo de tierra a la vista.<br>Este laboratorio es el epítome de la agricultura futurista. Aprenderás sobre técnicas de cultivo hidropónico de última generación, donde las plantas crecen en soluciones nutritivas en lugar de suelo tradicional. Observarás cómo las raíces de las plantas se sumergen en agua y nutrientes esenciales para lograr un crecimiento óptimo.<br>El Laboratorio de Hidroponía Avanzada es un paraíso para los amantes de la jardinería y la agricultura. Podés explorar diferentes secciones del laboratorio, cada una dedicada a cultivos específicos, desde verduras frescas hasta hierbas aromáticas y frutas exóticas.<br>Además, tendrás la oportunidad de interactuar con expertos en hidroponía que te mostrarán cómo se cuidan y se cosechan las plantas en este entorno futurista. Podés aprender sobre la gestión de nutrientes, la iluminación LED personalizada y otros aspectos clave de la agricultura hidropónica.",
+        "puntuacion": "⭐⭐⭐⭐"
+    },
+    {
+        "codigo": "programa_7",
+        "nombre": "Guerra mundial",
+        "descripcion": "Este holoprograma te transportará a un mundo imaginario donde las naciones del mundo se enfrentan en un conflicto global sin precedentes.",
+        "imagen": "./img/guerra.jpg",
+        "precio": 5500,
+        "detalle": "Imaginate un mundo donde la geopolítica ha evolucionado y las tensiones entre naciones han llevado a un conflicto a escala mundial. Al activar Batalla en la Cuarta Guerra Mundial, te encontrarás en medio de una lucha feroz en un futuro distópico.<br>Explora ciudades devastadas, paisajes posapocalípticos y tecnología de vanguardia utilizada en la guerra del mañana. Los drones de combate surcan los cielos, los vehículos blindados avanzados recorren las calles y los soldados del futuro se enfrentan en batallas de alta tecnología.<br>Este holoprograma te permite tomar el papel de un soldado en uno de los frentes de batalla más intensos de la historia ficticia. Únete a la resistencia contra las fuerzas opresoras o conviértete en un líder estratégico en esta lucha desesperada por el futuro de la humanidad.<br>Batalla en la Cuarta Guerra Mundial es una experiencia emocionante que te sumergirá en un mundo de ciencia ficción donde la tecnología y la estrategia se combinan en un conflicto global. Si estás listo para explorar este futuro ficticio y desafiante, ¡prepárate para la batalla!<br>",
+        "puntuacion": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "codigo": "programa_8",
+        "nombre": "Hotel submarino",
+        "descripcion": "Este holoprograma te llevará a un mundo submarino donde la comodidad y la aventura se encuentran en lo profundo del océano.",
+        "imagen": "./img/bajodelagua.jpg",
+        "precio": 8300,
+        "detalle": "Sumergite en las profundidades del océano Atlántico en nuestro espectacular hotel en forma de submarino. Cuando activás el Hotel Submarino de Lujo, te encontrarás a bordo de una maravilla de la arquitectura y la ingeniería submarina.<br>El hotel cuenta con habitaciones diseñadas con ventanas panorámicas que te permitirán disfrutar de vistas inigualables del mundo submarino. Observá la belleza de los arrecifes de coral y la vida marina desde la comodidad de tu cama.<br>El restaurante del hotel ofrece una experiencia culinaria inigualable, donde podrás disfrutar de deliciosos platos gourmet mientras los peces tropicales nadan a tu alrededor. Es una experiencia gastronómica única bajo el agua.<br>Además, podrás explorar las profundidades del océano en emocionantes excursiones submarinas. Acompañados por guías expertos, podrás bucear entre los arrecifes y descubrir la asombrosa biodiversidad marina.<br>Si preferís relajarte, el Hotel Submarino de Lujo cuenta con un spa submarino donde podrás recibir tratamientos relajantes mientras observás el mundo submarino a través de las ventanas del spa.<br>Esta es una experiencia única para quienes buscan combinar lujo y aventura en el fondo del océano. Sumergite en el Hotel Submarino de Lujo y viví un viaje submarino que nunca olvidarás.<br>",
+        "puntuacion": "⭐⭐⭐⭐⭐"
     }
 ]

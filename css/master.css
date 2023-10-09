@@ -1,3 +1,6 @@
+.tituloPrincipal{
+    font-family: monaco;
+}
 .primeraSeccion{
     margin-top: 4rem;
 }
@@ -18,9 +21,17 @@
 
 footer{
     margin-top: 2rem;
+    margin-left: 0;
+    margin-right: 0;
 }
 
-h1,h2,h3{
+.seccionIntermedia{
     margin-left: 3rem;
     margin-right: 3rem;
+}
+
+@import url(https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,300&display=swap);
+
+.tituloPrincipal {
+    font-family: 'Kanit', sans-serif;
 }
