@@ -5,7 +5,7 @@ let codigoSeleccionado = codigoProducto.get('codigo');
 let codigFinal = document.getElementById('codigo');
 codigFinal.innerHTML += `Código del Producto: ${codigoSeleccionado}`;
 
-fetch('../datos/holoprogramas.json')
+fetch('./datos/holoprogramas.json')
     .then((respuesta) => {
         return respuesta.json()
     })
@@ -17,11 +17,19 @@ fetch('../datos/holoprogramas.json')
             if (programas[i].codigo == codigoSeleccionado) {
                 const sectionDetalle = document.querySelector(".detalle")
                 sectionDetalle.innerHTML += `
-                <article class="producto col-12 col-md-6 col-lg-4" >
+                <h2 class="text-center">${programas[i].nombre}</h2>
+                <div class="container m-3">
+                <div class="row align-items-start">
+                <div class="col-lg-6 col-md-12 mb-4 mb-md-0">
                 <img class="w-100" src="${programas[i].imagen}" alt="${programas[i].nombre}">
-                <h2>Nombre: ${programas[i].nombre}</h2>
-                <h3>Precio: ${programas[i].precio}</h3>
-                </article>
+                </div>
+                <div class="col-lg-6 col-md-12 mb-4 mb-md-0">
+                                <p class="fst-italic">${programas[i].detalle}</p>
+                                <h5>Precio: ${programas[i].precio} tiras de latinum</h5>
+                                <h5>Puntuación: ${programas[i].puntuacion}</h5>
+                </div>
+                </div>
+                </div>
                 `
             }
         }
@@ -30,8 +38,8 @@ fetch('../datos/holoprogramas.json')
         console.log('Ufff ha ocurrido un error ' + error)
     })
 
-    let botonRegresar = document.querySelector('#botonRegresar');
-    botonRegresar.addEventListener('click', function(){
+let botonRegresar = document.querySelector('#botonRegresar');
+botonRegresar.addEventListener('click', function () {
     localStorage.clear();
-    location.href = '../index.html';
+    location.href = './index.html';
 })

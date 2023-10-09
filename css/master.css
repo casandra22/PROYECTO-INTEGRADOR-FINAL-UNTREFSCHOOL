@@ -11,6 +11,11 @@
 
 }
 
+.imagenDetalle{
+    width: 50%;
+    height: auto;
+}
+
 footer{
     margin-top: 2rem;
 }
